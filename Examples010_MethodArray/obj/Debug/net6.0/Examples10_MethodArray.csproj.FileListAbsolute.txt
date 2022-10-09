@@ -1,0 +1,15 @@
+C:\Users\Seregа\Documents\111\C#\Examples10_MethodArray\bin\Debug\net6.0\Examples10_MethodArray.exe
+C:\Users\Seregа\Documents\111\C#\Examples10_MethodArray\bin\Debug\net6.0\Examples10_MethodArray.deps.json
+C:\Users\Seregа\Documents\111\C#\Examples10_MethodArray\bin\Debug\net6.0\Examples10_MethodArray.runtimeconfig.json
+C:\Users\Seregа\Documents\111\C#\Examples10_MethodArray\bin\Debug\net6.0\Examples10_MethodArray.dll
+C:\Users\Seregа\Documents\111\C#\Examples10_MethodArray\bin\Debug\net6.0\Examples10_MethodArray.pdb
+C:\Users\Seregа\Documents\111\C#\Examples10_MethodArray\obj\Debug\net6.0\Examples10_MethodArray.csproj.AssemblyReference.cache
+C:\Users\Seregа\Documents\111\C#\Examples10_MethodArray\obj\Debug\net6.0\Examples10_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seregа\Documents\111\C#\Examples10_MethodArray\obj\Debug\net6.0\Examples10_MethodArray.AssemblyInfoInputs.cache
+C:\Users\Seregа\Documents\111\C#\Examples10_MethodArray\obj\Debug\net6.0\Examples10_MethodArray.AssemblyInfo.cs
+C:\Users\Seregа\Documents\111\C#\Examples10_MethodArray\obj\Debug\net6.0\Examples10_MethodArray.csproj.CoreCompileInputs.cache
+C:\Users\Seregа\Documents\111\C#\Examples10_MethodArray\obj\Debug\net6.0\Examples10_MethodArray.dll
+C:\Users\Seregа\Documents\111\C#\Examples10_MethodArray\obj\Debug\net6.0\refint\Examples10_MethodArray.dll
+C:\Users\Seregа\Documents\111\C#\Examples10_MethodArray\obj\Debug\net6.0\Examples10_MethodArray.pdb
+C:\Users\Seregа\Documents\111\C#\Examples10_MethodArray\obj\Debug\net6.0\Examples10_MethodArray.genruntimeconfig.cache
+C:\Users\Seregа\Documents\111\C#\Examples10_MethodArray\obj\Debug\net6.0\ref\Examples10_MethodArray.dll

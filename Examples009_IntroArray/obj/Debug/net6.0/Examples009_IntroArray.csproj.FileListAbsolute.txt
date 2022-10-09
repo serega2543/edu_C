@@ -1,0 +1,15 @@
+C:\Users\Seregа\Documents\111\C#\Examples009_IntroArray\obj\Debug\net6.0\Examples009_IntroArray.csproj.AssemblyReference.cache
+C:\Users\Seregа\Documents\111\C#\Examples009_IntroArray\obj\Debug\net6.0\Examples009_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seregа\Documents\111\C#\Examples009_IntroArray\obj\Debug\net6.0\Examples009_IntroArray.AssemblyInfoInputs.cache
+C:\Users\Seregа\Documents\111\C#\Examples009_IntroArray\obj\Debug\net6.0\Examples009_IntroArray.AssemblyInfo.cs
+C:\Users\Seregа\Documents\111\C#\Examples009_IntroArray\obj\Debug\net6.0\Examples009_IntroArray.csproj.CoreCompileInputs.cache
+C:\Users\Seregа\Documents\111\C#\Examples009_IntroArray\bin\Debug\net6.0\Examples009_IntroArray.exe
+C:\Users\Seregа\Documents\111\C#\Examples009_IntroArray\bin\Debug\net6.0\Examples009_IntroArray.deps.json
+C:\Users\Seregа\Documents\111\C#\Examples009_IntroArray\bin\Debug\net6.0\Examples009_IntroArray.runtimeconfig.json
+C:\Users\Seregа\Documents\111\C#\Examples009_IntroArray\bin\Debug\net6.0\Examples009_IntroArray.dll
+C:\Users\Seregа\Documents\111\C#\Examples009_IntroArray\bin\Debug\net6.0\Examples009_IntroArray.pdb
+C:\Users\Seregа\Documents\111\C#\Examples009_IntroArray\obj\Debug\net6.0\Examples009_IntroArray.dll
+C:\Users\Seregа\Documents\111\C#\Examples009_IntroArray\obj\Debug\net6.0\refint\Examples009_IntroArray.dll
+C:\Users\Seregа\Documents\111\C#\Examples009_IntroArray\obj\Debug\net6.0\Examples009_IntroArray.pdb
+C:\Users\Seregа\Documents\111\C#\Examples009_IntroArray\obj\Debug\net6.0\Examples009_IntroArray.genruntimeconfig.cache
+C:\Users\Seregа\Documents\111\C#\Examples009_IntroArray\obj\Debug\net6.0\ref\Examples009_IntroArray.dll
