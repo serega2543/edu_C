@@ -16,5 +16,5 @@ if (a > b)
 }
 else
 {
-    Console.WriteLine("max = " + b);
+    Console.WriqteLine("max = " + b);
 }
