@@ -1,0 +1,15 @@
+C:\Users\Seregа\Documents\111\C#\homeTask15\bin\Debug\net6.0\homeTask15.exe
+C:\Users\Seregа\Documents\111\C#\homeTask15\bin\Debug\net6.0\homeTask15.deps.json
+C:\Users\Seregа\Documents\111\C#\homeTask15\bin\Debug\net6.0\homeTask15.runtimeconfig.json
+C:\Users\Seregа\Documents\111\C#\homeTask15\bin\Debug\net6.0\homeTask15.dll
+C:\Users\Seregа\Documents\111\C#\homeTask15\bin\Debug\net6.0\homeTask15.pdb
+C:\Users\Seregа\Documents\111\C#\homeTask15\obj\Debug\net6.0\homeTask15.csproj.AssemblyReference.cache
+C:\Users\Seregа\Documents\111\C#\homeTask15\obj\Debug\net6.0\homeTask15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seregа\Documents\111\C#\homeTask15\obj\Debug\net6.0\homeTask15.AssemblyInfoInputs.cache
+C:\Users\Seregа\Documents\111\C#\homeTask15\obj\Debug\net6.0\homeTask15.AssemblyInfo.cs
+C:\Users\Seregа\Documents\111\C#\homeTask15\obj\Debug\net6.0\homeTask15.csproj.CoreCompileInputs.cache
+C:\Users\Seregа\Documents\111\C#\homeTask15\obj\Debug\net6.0\homeTask15.dll
+C:\Users\Seregа\Documents\111\C#\homeTask15\obj\Debug\net6.0\refint\homeTask15.dll
+C:\Users\Seregа\Documents\111\C#\homeTask15\obj\Debug\net6.0\homeTask15.pdb
+C:\Users\Seregа\Documents\111\C#\homeTask15\obj\Debug\net6.0\homeTask15.genruntimeconfig.cache
+C:\Users\Seregа\Documents\111\C#\homeTask15\obj\Debug\net6.0\ref\homeTask15.dll

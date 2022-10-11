@@ -9,22 +9,19 @@
 
 Console.WriteLine("Введите число:");
 int num = int.Parse(Console.ReadLine());
-
+if (num < 0) num = num * -1;
 int numStr = num.ToString().Length;
-//Console.WriteLine(numStr);
 
 if (numStr > 2)
 {
-//    int firstNum = num / 100;
-//    int secondNum = (num % 100) /10;
-    double thirdNum = num % Convert.ToInt32(Math.Pow(10, numStr-2)) / Convert.ToInt32(Math.Pow(10, numStr-3));
-    //int result = thirdNum / 10;
-//    Console.WriteLine("Первая цифра: " + firstNum);    
-//    Console.WriteLine("Вторая цифра: " + secondNum);  
-//    Console.WriteLine(secondNum);  
-//    Console.WriteLine("Третья цифра: " + thirdNum);  
-    Console.WriteLine(thirdNum);  
-
+    while (numStr > 3) //привожу число к трёхзначному
+    {
+        num = num / 10;
+        Console.WriteLine(num);
+        numStr = num.ToString().Length;
+    }
+    int thirdNum = num % 10;
+    Console.WriteLine(thirdNum);
 }
 else
 {
