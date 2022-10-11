@@ -1,0 +1,15 @@
+C:\Users\Seregа\Documents\111\C#\homeTask23\obj\Debug\net6.0\homeTask23.csproj.AssemblyReference.cache
+C:\Users\Seregа\Documents\111\C#\homeTask23\obj\Debug\net6.0\homeTask23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seregа\Documents\111\C#\homeTask23\obj\Debug\net6.0\homeTask23.AssemblyInfoInputs.cache
+C:\Users\Seregа\Documents\111\C#\homeTask23\obj\Debug\net6.0\homeTask23.AssemblyInfo.cs
+C:\Users\Seregа\Documents\111\C#\homeTask23\obj\Debug\net6.0\homeTask23.csproj.CoreCompileInputs.cache
+C:\Users\Seregа\Documents\111\C#\homeTask23\bin\Debug\net6.0\homeTask23.exe
+C:\Users\Seregа\Documents\111\C#\homeTask23\bin\Debug\net6.0\homeTask23.deps.json
+C:\Users\Seregа\Documents\111\C#\homeTask23\bin\Debug\net6.0\homeTask23.runtimeconfig.json
+C:\Users\Seregа\Documents\111\C#\homeTask23\bin\Debug\net6.0\homeTask23.dll
+C:\Users\Seregа\Documents\111\C#\homeTask23\bin\Debug\net6.0\homeTask23.pdb
+C:\Users\Seregа\Documents\111\C#\homeTask23\obj\Debug\net6.0\homeTask23.dll
+C:\Users\Seregа\Documents\111\C#\homeTask23\obj\Debug\net6.0\refint\homeTask23.dll
+C:\Users\Seregа\Documents\111\C#\homeTask23\obj\Debug\net6.0\homeTask23.pdb
+C:\Users\Seregа\Documents\111\C#\homeTask23\obj\Debug\net6.0\homeTask23.genruntimeconfig.cache
+C:\Users\Seregа\Documents\111\C#\homeTask23\obj\Debug\net6.0\ref\homeTask23.dll
