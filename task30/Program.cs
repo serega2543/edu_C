@@ -14,11 +14,11 @@ void MassFull(int[] collection){
 }
 
 //Console.WriteLine(MassFull(array));
-void WriteArray(int[] arr){
+void PrintArray(int[] arr){
     for(int i=0; i<arr.Length;i++){
         Console.Write($"{arr[i]} ");
     }
 }
 
 MassFull(array);
-WriteArray(array);
+PrintArray(array);
