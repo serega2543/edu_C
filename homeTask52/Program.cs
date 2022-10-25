@@ -41,7 +41,7 @@ double[] ArithmeticMean(int[,] inArray)
         {
             res += inArray[j, i];
         }
-        res = res/(inArray.GetLength(1));
+        res = res/(inArray.GetLength(0));
         resultArr[i] = res;
     }
     return resultArr;
